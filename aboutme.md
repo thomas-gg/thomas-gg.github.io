@@ -15,4 +15,4 @@ My name is Thomas Garry. I'm an aspiring software engineer who loves learning! R
 - Married Life (from my favorite Pixar movie, Up), Michael Giacchino  
 - The Night We Met, Lord Huron
 
-Yep, I have a very strange song preference. I also played soccer for a little over half of my life now, so running/sports definitely hold a special place in my heart as well.
+Yep, I have a very strange song preference. I also played soccer for a little over half of my life now, so running/sports definitely holds a special place in my heart as well.
