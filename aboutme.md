@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: A fun-loving individual
 ---
 
 My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- I'd love to change the world, Ten Years After
+- You've Got a Friend in Me (fingerstyle), Randy Newman
+- Blackbird, The Beatles
+- Dream a Little Dream (fingerstyle), Doris Day
+- Simple Things You Do, Michael Carreon
+- Corduroy Dreams, Rex Orange County
+- Married Life (from my favorite Pixar movie, Up), Michael Giacchino  
+- The Night We Met, Lord Huron
